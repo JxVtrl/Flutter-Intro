@@ -19,3 +19,8 @@ Primeiros passos para rodar o projeto:
     ```
     $ flutter create <nome_do_projeto>
     ```
+
+- Rodando o projeto:
+    ```
+    $ flutter run
+    ```
